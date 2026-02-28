@@ -1,2 +1,2 @@
 # all-the-blooks
-how to get all the blooks!
+For people who want hacks, press  the top file. for people who don't want hacks, press the bottom file. For the hacks file, click inspect on blooket lobbies, go to console and type "allow pasting" then press enter and paste the code, then enter again. For the people who don't want hacks, bookmark this tab, then delete the url and type javascript: and paste. then click the bookmark at blooket.
